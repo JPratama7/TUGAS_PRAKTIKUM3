@@ -1,0 +1,10 @@
+D:\Proyek_dotnet\P3_2_1204004\P3_2_1204004\bin\Debug\P3_2_1204004.exe.config
+D:\Proyek_dotnet\P3_2_1204004\P3_2_1204004\obj\Debug\P3_2_1204004.csprojResolveAssemblyReference.cache
+D:\Proyek_dotnet\P3_2_1204004\P3_2_1204004\obj\Debug\P3_2_1204004.ParentForm.resources
+D:\Proyek_dotnet\P3_2_1204004\P3_2_1204004\obj\Debug\P3_2_1204004.Properties.Resources.resources
+D:\Proyek_dotnet\P3_2_1204004\P3_2_1204004\obj\Debug\P3_2_1204004.csproj.GenerateResource.Cache
+D:\Proyek_dotnet\P3_2_1204004\P3_2_1204004\bin\Debug\P3_2_1204004.exe
+D:\Proyek_dotnet\P3_2_1204004\P3_2_1204004\bin\Debug\P3_2_1204004.pdb
+D:\Proyek_dotnet\P3_2_1204004\P3_2_1204004\obj\Debug\P3_2_1204004.exe
+D:\Proyek_dotnet\P3_2_1204004\P3_2_1204004\obj\Debug\P3_2_1204004.pdb
+D:\Proyek_dotnet\P3_2_1204004\P3_2_1204004\obj\Debug\P3_2_1204004.ChildForm.resources
